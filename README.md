@@ -1,4 +1,4 @@
-## ID-5030-ML-for-Engineering-and-Science-Applications.
+## Coding ML and DL algorithms from Scratch.
 
 ## ML Model ##
 Stochastic Gradient Descent and Mini-Batch Gradient Descent:
